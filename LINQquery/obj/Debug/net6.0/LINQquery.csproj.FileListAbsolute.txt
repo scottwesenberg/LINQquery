@@ -1,0 +1,15 @@
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week6\LINQquery\LINQquery\bin\Debug\net6.0\LINQquery.exe
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week6\LINQquery\LINQquery\bin\Debug\net6.0\LINQquery.deps.json
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week6\LINQquery\LINQquery\bin\Debug\net6.0\LINQquery.runtimeconfig.json
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week6\LINQquery\LINQquery\bin\Debug\net6.0\LINQquery.dll
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week6\LINQquery\LINQquery\bin\Debug\net6.0\LINQquery.pdb
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week6\LINQquery\LINQquery\obj\Debug\net6.0\LINQquery.csproj.AssemblyReference.cache
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week6\LINQquery\LINQquery\obj\Debug\net6.0\LINQquery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week6\LINQquery\LINQquery\obj\Debug\net6.0\LINQquery.AssemblyInfoInputs.cache
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week6\LINQquery\LINQquery\obj\Debug\net6.0\LINQquery.AssemblyInfo.cs
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week6\LINQquery\LINQquery\obj\Debug\net6.0\LINQquery.csproj.CoreCompileInputs.cache
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week6\LINQquery\LINQquery\obj\Debug\net6.0\LINQquery.dll
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week6\LINQquery\LINQquery\obj\Debug\net6.0\refint\LINQquery.dll
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week6\LINQquery\LINQquery\obj\Debug\net6.0\LINQquery.pdb
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week6\LINQquery\LINQquery\obj\Debug\net6.0\LINQquery.genruntimeconfig.cache
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week6\LINQquery\LINQquery\obj\Debug\net6.0\ref\LINQquery.dll
